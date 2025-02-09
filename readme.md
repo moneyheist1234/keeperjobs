@@ -108,4 +108,4 @@ BookmarksScreen → JobDetailsScreen
 
 🤝 Contributor
 
-Akshay– https://github.com/ak74aytg
+ V Praneeth Naik– https://github.com/moneyheist1234
