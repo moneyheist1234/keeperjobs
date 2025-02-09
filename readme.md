@@ -32,7 +32,7 @@ Two-tab navigation: "Jobs" and "Bookmarks"
 1️⃣ Clone the Repository
 ```
 git clone   github.com/moneyheist1234/keeperjobs.git
-cd keep_jobs
+cd keeperjobs
 ```
 2️⃣ Install Dependencies
 ```
